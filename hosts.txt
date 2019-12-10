@@ -1,0 +1,12 @@
+m20prod-cfm-bm-01.iad1.infery.com
+m20prod-cfm-bm-02.iad1.infery.com
+m20prod-cfm-bm-03.iad1.infery.com
+m20prod-cfm-bm-04.iad1.infery.com
+m20prod-cfm-bm-05.iad1.infery.com
+m20prod-cfm-bm-06.iad1.infery.com
+m20prod-cfm-bm-07.iad1.infery.com
+m20prod-cfm-bm-08.iad1.infery.com
+m20prod-cfm-bm-09.iad1.infery.com
+m20prod-cfm-bm-10.iad1.infery.com
+m20prod-cfm-bm-11.iad1.infery.com
+m20prod-cfm-bm-12.iad1.infery.com
